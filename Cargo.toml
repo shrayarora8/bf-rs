@@ -1,0 +1,7 @@
+[package]
+name = "bf-rs"
+version = "0.1.0"
+edition = "2024"
+description = "A Brainfuck parser and interpreter that represents programs as a syntax tree"
+
+[dependencies]
